@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hiseulgi</title>
-    <link>https://hiseulgi.github.io/</link>
-    <description>Recent content on Hiseulgi</description>
+    <title>example on Hiseulgi</title>
+    <link>https://hiseulgi.github.io/categories/example/</link>
+    <description>Recent content in example on Hiseulgi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Nov 2023 20:32:58 +0700</lastBuildDate><atom:link href="https://hiseulgi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 20:32:58 +0700</lastBuildDate><atom:link href="https://hiseulgi.github.io/categories/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects 1</title>
       <link>https://hiseulgi.github.io/projects/projects-1/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://hiseulgi.github.io/blogs/hello-world/</guid>
       <description>Same as summary</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://hiseulgi.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hiseulgi.github.io/about/</guid>
-      <description>about</description>
     </item>
     
   </channel>
